@@ -1,0 +1,27 @@
+.card-title{
+    font-size: 15px;
+}
+
+.card-text{
+    font-size: 14px;
+}
+
+.desc{
+    font-size: 12px;
+}
+
+.card-img-top{
+    overflow-wrap: break-word;
+}
+
+.start-100 {
+    left: 95%!important;
+}
+
+.pill{
+    position: absolute;
+    right: 0;
+    display: flex;
+    justify-content: flex-end;
+}
+
